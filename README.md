@@ -64,19 +64,19 @@ details. Agent can track his referrals, commission etc.
 
 ## Roles and Responsibilities :
 
-•	Producing and consuming the restful web services.
-•	Write well-structured and testable codes for developing software and application.
-•	Bug fixing.
-•	Unit test the code.
-•	Ensure application design complies with the client's requirement and specification
-•	Prepare end-user documentation.
-•	Participate in code reviews.
-•	Analyze new changes and manipulate code accordingly.
-•	Serve as a technical expert on development projects.
-•	Transform client's requirements into workable Java applications.
-•	Analyse the program to identify the code changes as per the business requirements.
-•	Involved in knowledge sharing activities with team.
-•	Preparing the technical specification document based on existing system and new design changes.
+-	Producing and consuming the restful web services.
+-	Write well-structured and testable codes for developing software and application.
+-	Bug fixing.
+-	Unit test the code.
+-	Ensure application design complies with the client's requirement and specification
+-	Prepare end-user documentation.
+-	Participate in code reviews.
+-	Analyze new changes and manipulate code accordingly.
+-	Serve as a technical expert on development projects.
+-	Transform client's requirements into workable Java applications.
+-	Analyse the program to identify the code changes as per the business requirements.
+-	Involved in knowledge sharing activities with team.
+-	Preparing the technical specification document based on existing system and new design changes.
 
 
 
