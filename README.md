@@ -86,7 +86,7 @@ details. Agent can track his referrals, commission etc.
 Feel free to reach out to me for any inquiries or opportunities:
 
 - Email: jayeshkhairnar68@gmail.com
-
+- Linkedin: https://www.linkedin.com/in/jayesh-khairnar-08509a274/
 
 Thank you for visiting my resume repository!
 
