@@ -41,7 +41,7 @@ details. Agent can track his referrals, commission etc.
 ## Summary
 - Concrete understanding of ***Core Java and OOPS*** concepts
 - Accomplished command over ***Java 1.8*** features
-- Strong knowledge of ***Exception Handling
+- Strong knowledge of ***Exception Handling***
 - Proficient in ***Git*** version control
 - Absolute knowledge of ***Apache Tomcat Server*** technology
 - Proven experience in rapid web development using ***Spring Boot***
