@@ -54,7 +54,7 @@ details. Agent can track his referrals, commission etc.
 - Proficient in ***Agile*** development methodologies
 - Excellent knowledge in project management tools like ***JIRA***
 - Able to implement industry-standard patterns like ***Singleton Factory Design***
-- Profound knowledge in Spring IOC and Spring MVC
+- Profound knowledge in ***Spring IOC and Spring MVC***
 - ***Basic*** understanding of ***Microservices*** Architecture
 - Well-experienced as a ***Java backend developer***
 - Good team player with excellent ***oratory and presentation skills***
@@ -64,15 +64,20 @@ details. Agent can track his referrals, commission etc.
 
 ## Roles and Responsibilities :
 
-- Production and consumption of RESTful web services
-- Writing well-structured and testable code
-- Bug fixing and issue resolution
-- Unit testing to ensure code quality
-- Compliance with client requirements and specifications in application design
-- Preparation of end-user documentation
-- Active participation in code reviews
-- Analyzing new changes and making code adjustments
-- Serving as a technical expert on development projec
+•	Producing and consuming the restful web services.
+•	Write well-structured and testable codes for developing software and application.
+•	Bug fixing.
+•	Unit test the code.
+•	Ensure application design complies with the client's requirement and specification
+•	Prepare end-user documentation.
+•	Participate in code reviews.
+•	Analyze new changes and manipulate code accordingly.
+•	Serve as a technical expert on development projects.
+•	Transform client's requirements into workable Java applications.
+•	Analyse the program to identify the code changes as per the business requirements.
+•	Involved in knowledge sharing activities with team.
+•	Preparing the technical specification document based on existing system and new design changes.
+
 
 
 
