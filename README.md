@@ -8,7 +8,7 @@ I am a skilled and passionate Java developer with over 2 years of professional e
 
 ## Experience
 
-Working with eBaoTech India Pvt Ltd as a Java developer from Jan 2021 to till date.
+Working with eBaoTech India Pvt Ltd as a Java developer from May 2021 to till date.
 ## Education
 Bachelor's Degree in Electrical Engineering from Savitribai Phule Pune University
 ## Skills
